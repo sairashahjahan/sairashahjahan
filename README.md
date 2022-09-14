@@ -1,6 +1,6 @@
 **Saira Shahjahan**  
 ----------------------------------------
-Email: [sairashahjahan01@gmail.com]()
+Email: sairashahjahan01@gmail.com
 
 **objective**  
 ------------------------------------------

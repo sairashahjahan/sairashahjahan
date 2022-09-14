@@ -2,7 +2,7 @@
 ----------------------------------------
 Email: sairashahjahan01@gmail.com
 
-**objective**  
+**Objective**  
 ------------------------------------------
 
 To be a part of a dynamic and energetic organization to serve the organization with the best of my ability.  
@@ -15,7 +15,7 @@ Professional challenge is a positive activity and a sign of good professional pr
 Quaid-e-Azam University, Islamabad.     
 Research work:Doing research in Machine learning.  
 
-| Subject name                | Subject name                 |  
+| Subject Name                | Subject Name                 |  
 |-----------------------------|------------------------------|  
 |Wave Propagation             | Advance Computing System     |  
 |Advance Computer Architecture| Microelectronics-I           |  

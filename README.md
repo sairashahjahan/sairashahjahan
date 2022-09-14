@@ -12,14 +12,33 @@ Professional challenge is a positive activity and a sign of good professional pr
 -------------------------------------------
 **MPhil Electronics (2021-2023)**  
 
-Quaid-e-Azam University, Islamabad.  
-Major Subjects: Advance Computer Programming, Digital Communication, Computer Network.    
+Quaid-e-Azam University, Islamabad.     
 Research work:Doing research in Machine learning.  
+
+| Subject name                | Subject name                 |  
+|-----------------------------|------------------------------|  
+|Wave Propagation             | Advance Computing System     |  
+|Advance Computer Architecture| Microelectronics-I           |  
+|Computer Network             | Antennas                     |  
+|Oversampling Data Converetrs | Digital Communication System |  
 
 **MSC Electronics (2019-2021)**  
 
 Quaid-e-Azam University, Islamabad.  
-Major Subjects: Digital Logic Design, Computer Programming, Communication.  
+
+| Subject Name | Subject Name |
+| ------------ | ------------ |
+| Applied Mathematics-I | Network Analysis |
+| Digital Logic Design | Quantum And Physical Electronics |
+| Laboratory-I | Applied Mathematics-II |
+| Electronic-I | Control Systems |
+| Computer Architecture | Laboratory-II |
+| Communication Theory | Electronics-II |
+| Electromagnetic Theory | Computer programming |
+| Laboratory-III | Communication System |
+| Electronics-III | Software Engineering |
+| Digital Design Using Verilog-HDL | Wireless Communications|
+
 
 **BSC (2016-2018)**  
 

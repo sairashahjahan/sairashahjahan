@@ -10,13 +10,13 @@ Professional challenge is a positive activity and a sign of good professional pr
 
 **Education**  
 -------------------------------------------
-**MPhil Electronics(2021-2023)**  
+**MPhil Electronics (2021-2023)**  
 
 Quaid-e-Azam University, Islamabad.  
 Major Subjects: Advance Computer Programming, Digital Communication, Computer Network.    
 Research work:Doing research in Machine learning.  
 
-**MSC Electronics(2019-2021)**  
+**MSC Electronics (2019-2021)**  
 
 Quaid-e-Azam University, Islamabad.  
 Major Subjects: Digital Logic Design, Computer Programming, Communication.  
@@ -33,13 +33,18 @@ Islamabad Model Post Graduate College For Girls F-7/2.
 Major Subjects: Math, Physics, Stat.    
 Affiliated with FBISE.  
 
+**SSC (2012-2014)**
+
+Islamabad Model school For Girls I-8/1.    
+Major Subjects: Bio, Chem, Phy.    
+Affiliated with FBISE.  
+
 **Skills**  
 -------------------------------------------
 MS office
 
 **Languages**
 -------------------------------------------
-
 ![images1](https://user-images.githubusercontent.com/108970377/190153449-9df7cfa0-222a-427c-9759-47b7db287fdd.png)
 ![download (2)](https://user-images.githubusercontent.com/108970377/190154487-46b9bf6a-eb08-4143-ba0e-b6f2a7a3c809.png)
 
